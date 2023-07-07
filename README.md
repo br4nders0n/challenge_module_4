@@ -1,4 +1,4 @@
-#Module 4 Challenge Homework
+Module 4 Challenge Homework
 
 ## Question 1
 ### Determine whether the algorithmic strategies outperform both the market (S&P 500) and the whales portfolios.
