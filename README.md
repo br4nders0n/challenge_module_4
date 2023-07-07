@@ -6,4 +6,4 @@ Yes, the algorithimic strategies both outperformed the SP500. Of the whale portf
 
 ## Question 2
 ### How does your portfolio do?
-My portfolio just barely outperformed the market with he given weights. The high sharp ratios and low stds by Chipotle and Shopify carried my portfolio to outperform the SP500. Space was extremely volatile and risky with a high std, which pulled down my overall portfolio.
+My portfolio just barely outperformed the market with the given weights. The high sharp ratios and low stds by Chipotle and Shopify carried my portfolio to outperform the SP500. Space was extremely volatile and risky with a high std, which pulled down my overall portfolio.
